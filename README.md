@@ -1,12 +1,9 @@
+Step into the enchanting world of beauty at [Kavyamakeover14](https://www.instagram.com/kavyamakeover14/), located at S. No. 44/1, Off Sinhgad Rd, Vadgaon Budruk, Pune, Maharashtra 411041. Elegance meets expertise at our richly adorned parlour, where Kavya, with 16 years of experience, crafts timeless masterpieces as a visionary makeup artist and skilled beautician.
 
+Embark on a journey of unparalleled beauty as Kavyamakeover14 invites you to experience the epitome of sophistication. For Yashoda, it's a sanctuary of beauty; for Ganga, the best service in the city; and for Kalpana, a place of personalized attention and skillful touch.
 
-**Vaibhav Sunil Sarda - Dynamic Resume**
+Follow us on [Instagram](https://www.instagram.com/kavyamakeover14/) for a glimpse into our artistic creations. Dial 9028343014 to book your appointment and step into a realm of timeless beauty.
 
-Vaibhav Sunil Sarda's dynamic resume showcases a driven individual with a strong academic background, having excelled with a remarkable 92% pass percentage in 10th grade at Sinhgad Spring Dale Public School, Vadgaon, Pune. Currently in 11th grade with a focus on Physics, Chemistry, and Biology, Vaibhav harbors future aspirations in pursuing Bachelors and Masters in Pharmacy from Hyderabad Nipper.
+Our parlour awaits you from 11 am to 8 pm, ensuring you can indulge in beauty at your convenience. For inquiries, reach out to us at kavyasunilsarda19@gmail.com.
 
-With proficiency in Python, HTML, and JavaScript, Vaibhav's coding prowess is evident through various projects, including "Files Viewer," "Calculator," "Snake Game," "Urban Pancake," and "Simple Animation of Vaibhav Sarda." His interests span coding, continuous learning, and reading.
-
-Contact details include email (vaibhavsarda37@gmail.com) and phone (7498584399), based in Pune, Maharashtra. Fluent in English, Marathi, Hindi, and Marvadi, Vaibhav adds linguistic versatility to his skill set.
-
-
-
+Don't miss our exclusive offers; time is of the essence, so hurry and embrace the allure of Kavyamakeover14. As a token of appreciation for our loyal patrons, we present our exclusive membership program, unlocking a world of privileges and personalized beauty experiences. Join now and let the magic of Kavyamakeover14 enhance your beauty journey.
