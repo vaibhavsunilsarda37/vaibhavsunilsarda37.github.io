@@ -14,3 +14,18 @@ Our parlour awaits you from 11 am to 8 pm, ensuring you can indulge in beauty at
 Don't miss our exclusive offers; time is of the essence, so hurry and embrace the allure of Kavyamakeover14. As a token of appreciation for our loyal patrons, we present our exclusive membership program, unlocking a world of privileges and personalized beauty experiences. Join now and let the magic of Kavyamakeover14 enhance your beauty journey.😃
 ![IMG-20231212-WA0010](https://github.com/vaibhavsunilsarda37/vaibhavsunilsarda37.github.io/assets/158248067/ed7a0e0b-edd1-4277-abe1-c66a9e905670)
 (https://github.com/vaibhavsunilsarda37/vaibhavsunilsarda37.github.io/assets/158248067/233e8681-2fa7-4512-8096-2d9e1a663ec4)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+    <a href="https://wa.me/9028343013" target="_blank">
+        Message us on WhatsApp
+    </a>
+
+</body>
+</html>
