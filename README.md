@@ -7,3 +7,4 @@ Follow us on [Instagram](https://www.instagram.com/kavyamakeover14/) for a glimp
 Our parlour awaits you from 11 am to 8 pm, ensuring you can indulge in beauty at your convenience. For inquiries, reach out to us at kavyasunilsarda19@gmail.com.
 
 Don't miss our exclusive offers; time is of the essence, so hurry and embrace the allure of Kavyamakeover14. As a token of appreciation for our loyal patrons, we present our exclusive membership program, unlocking a world of privileges and personalized beauty experiences. Join now and let the magic of Kavyamakeover14 enhance your beauty journey.😃
+![img-20231212-wa0008](https://github.com/vaibhavsunilsarda37/vaibhavsunilsarda37.github.io/assets/158248067/233e8681-2fa7-4512-8096-2d9e1a663ec4)
