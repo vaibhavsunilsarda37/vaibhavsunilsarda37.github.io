@@ -3,6 +3,7 @@ Step into the enchanting world of beauty at [Kavyamakeover14](https://www.instag
 Embark on a journey of unparalleled beauty as Kavyamakeover14 invites you to experience the epitome of sophistication. For Yashoda, it's a sanctuary of beauty; for Ganga, the best service in the city; and for Kalpana, a place of personalized attention and skillful touch.
 
 Follow us on [Instagram](https://www.instagram.com/kavyamakeover14/) for a glimpse into our artistic creations. Dial 9028343014 to book your appointment and step into a realm of timeless beauty.
+For swift inquiries or to schedule your beauty appointment, simply click here or use our WhatsApp number: 📱 9028343013.
 
 Our parlour awaits you from 11 am to 8 pm, ensuring you can indulge in beauty at your convenience. For inquiries, reach out to us at kavyasunilsarda19@gmail.com.
 
