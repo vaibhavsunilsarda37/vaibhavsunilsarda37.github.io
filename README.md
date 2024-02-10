@@ -34,12 +34,28 @@
 </body>
 </html>
 ![IMG-20231212-WA0010](https://github.com/vaibhavsunilsarda37/vaibhavsunilsarda37.github.io/assets/158248067/9d17ce21-fcfe-4c4a-9c4a-e28aee80d17d)
+<style>
+    /* Style for the animated contact links */
+    .contact-link {
+        color: #333; /* Default text color */
+        transition: color 0.3s ease; /* Smooth transition effect */
+        text-decoration: none;
+        font-weight: bold;
+        display: inline-block; /* Ensure the transition works properly */
+    }
+
+    .contact-link:hover {
+        color: #007BFF; /* Text color on hover */
+    }
+</style>
+
+<!-- Contact Us Section with Animated Links -->
 <section>
     <h2>Contact Us</h2>
     <ul>
-        <li><a href="https://wa.me/9028343013?text=Hello%20Kavyamakeover14,%20I%20would%20like%20to%20inquire%20about%20your%20parlour%20treatments.%20" target="_blank">WhatsApp: 9028343013 (Send Inquiry)</a></li>
-        <li><a href="https://www.instagram.com/kavyamakeover14/" target="_blank">Instagram</a></li>
-        <li><a href="tel:+9028343013" target="_blank">Phone: 9028343013</a></li>
+        <li><a href="https://wa.me/9028343013?text=Hello%20Kavyamakeover14" target="_blank" class="contact-link">WhatsApp: 9028343013 (Send Message)</a></li>
+        <li><a href="tel:+9028343013" target="_blank" class="contact-link">Phone: 9028343013</a></li>
+        <li><a href="https://www.instagram.com/kavyamakeover14/" target="_blank" class="contact-link">Instagram</a></li>
     </ul>
 </section>
 <footer>
