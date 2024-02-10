@@ -1,23 +1,48 @@
-Step into the enchanting world of beauty at [Kavyamakeover14](https://www.instagram.com/kavyamakeover14/), located at S. No. 44/1, Off Sinhgad Rd, Vadgaon Budruk, Pune, Maharashtra 411041. Elegance meets expertise at our richly adorned parlour, where Kavya, with 16 years of experience, crafts timeless masterpieces as a visionary makeup artist and skilled beautician.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
-Embark on a journey of unparalleled beauty as Kavyamakeover14 invites you to experience the epitome of sophistication. For Yashoda, it's a sanctuary of beauty; for Ganga, the best service in the city; and for Kalpana, a place of personalized attention and skillful touch.
+    <header>
+        <h1>Welcome to Kavyamakeover14</h1>
+    </header>
 
-Follow us on [Instagram](https://www.instagram.com/kavyamakeover14/) for a glimpse into our artistic creations. Dial 9028343014 to book your appointment and step into a realm of timeless beauty.
-Certainly! Here's the updated WhatsApp part with a clickable link and mentioning it as "WhatsApp":
+    <nav>
+        <!-- Your navigation links can go here if needed -->
+    </nav>
 
-**Connect with us on WhatsApp**
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>Step into the enchanting world of beauty at Kavyamakeover14, where elegance meets expertise. With a rich legacy of 16 years, Kavya, the visionary makeup artist and skilled beautician, has transformed countless faces into timeless masterpieces.</p>
+        </section>
 
-For swift inquiries or to schedule your beauty appointment, simply message us on **WhatsApp**: 📱 [9028343013](https://wa.me/9028343013).
+        <section>
+            <h2>Our Luxurious Venue</h2>
+            <p>Visit our exquisite venue at S. No. 44/1, Off Sinhgad Rd, Vadgaon Budruk, Pune, Maharashtra 411041, and immerse yourself in the opulence of Kavyamakeover14. Our luxurious parlour, adorned with tasteful decor, creates an atmosphere of pure indulgence. 💄💅✨</p>
+        </section>
 
-Our parlour awaits you from 11 am to 8 pm, ensuring you can indulge in beauty at your convenience. For inquiries, reach out to us at kavyasunilsarda19@gmail.com.
+        <section>
+            <h2>Client Testimonials</h2>
+            <p>For Yashoda, Kavyamakeover14 is a sanctuary of beauty, offering exquisite treatments that elevate her glow. Ganga commends the unparalleled service, hailing it as the epitome of excellence in the city. Kalpana values the personalized attention and skillful touch, making each visit a pampering delight.</p>
+        </section>
 
-Don't miss our exclusive offers; time is of the essence, so hurry and embrace the allure of Kavyamakeover14. As a token of appreciation for our loyal patrons, we present our exclusive membership program, unlocking a world of privileges and personalized beauty experiences. Join now and let the magic of Kavyamakeover14 enhance your beauty journey.😃
-![IMG-20231212-WA0010](https://github.com/vaibhavsunilsarda37/vaibhavsunilsarda37.github.io/assets/158248067/ed7a0e0b-edd1-4277-abe1-c66a9e905670)
+        <section>
+            <h2>Connect with us</h2>
+            <ul>
+                <li><a href="https://wa.me/9028343013" target="_blank">WhatsApp: 9028343013</a></li>
+                <li><a href="https://www.instagram.com/kavyamakeover14/" target="_blank">Instagram</a></li>
+                <li><a href="tel:+9028343013" target="_blank">Phone: 9028343013</a></li>
+            </ul>
+        </section>
+    </main>
 
+    <footer>
+        <p>&copy; 2024 Kavyamakeover14. All rights reserved.</p>
+    </footer>
 
-(https://github.com/vaibhavsunilsarda37/vaibhavsunilsarda37.github.io/assets/158248067/233e8681-2fa7-4512-8096-2d9e1a663ec4)
-
-
-
-![IMG-20231202-WA0017](https://github.com/vaibhavsunilsarda37/vaibhavsunilsarda37.github.io/assets/158248067/b47b31d3-80ad-4096-87c3-3b2ca8c1c229)
-
+</body>
+</html>
