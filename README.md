@@ -29,14 +29,12 @@
             <h2>Client Testimonials</h2>
             <p>For Yashoda, Kavyamakeover14 is a sanctuary of beauty, offering exquisite treatments that elevate her glow. Ganga commends the unparalleled service, hailing it as the epitome of excellence in the city. Kalpana values the personalized attention and skillful touch, making each visit a pampering delight.</p>
         </section>
+![IMG-20231212-WA0010](https://github.com/vaibhavsunilsarda37/vaibhavsunilsarda37.github.io/assets/158248067/5a63d978-d278-4701-8971-0db7e674f9e8)
 
         <section>
             <h2>Connect with us</h2>
             <ul>
                 <li><a href="https://wa.me/9028343013" target="_blank">WhatsApp: 9028343013</a></li>
-![IMG-20231212-WA0010](https://github.com/vaibhavsunilsarda37/vaibhavsunilsarda37.github.io/assets/158248067/4b2791f0-5ac8-444f-aa62-f19eaa6d6140)
-![IMG-20231202-WA0017](https://github.com/vaibhavsunilsarda37/vaibhavsunilsarda37.github.io/assets/158248067/54e03a37-603e-4516-a9af-d8f8569611a5)
-
                 <li><a href="https://www.instagram.com/kavyamakeover14/" target="_blank">Instagram</a></li>
                 <li><a href="tel:+9028343013" target="_blank">Phone: 9028343013</a></li>
             </ul>
