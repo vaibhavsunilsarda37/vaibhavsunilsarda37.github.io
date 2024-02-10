@@ -37,7 +37,7 @@
 <section>
     <h2>Contact Us</h2>
     <ul>
-        <li><a href="https://wa.me/9028343013?text=Hello%20Kavyamakeover14" target="_blank">WhatsApp: 9028343013 (Send Message)</a></li>
+        <li><a href="https://wa.me/9028343013?text=Hello%20Kavyamakeover14,%20I%20would%20like%20to%20inquire%20about%20your%20parlour%20treatments.%20💫🌺" target="_blank">WhatsApp: 9028343013 (Send Inquiry)</a></li>
         <li><a href="https://www.instagram.com/kavyamakeover14/" target="_blank">Instagram</a></li>
         <li><a href="tel:+9028343013" target="_blank">Phone: 9028343013</a></li>
     </ul>
