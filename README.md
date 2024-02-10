@@ -43,5 +43,22 @@
     </ul>
 </section>
 <footer>
+ <section>
+    <h2>Rate Your Experience</h2>
+    <p>We value your feedback! Please take a moment to rate your experience with Kavyamakeover14:</p>
+    <!-- You can customize the rating system based on your preferences -->
+    <div>
+        <label for="rating">Select a rating:</label>
+        <select id="rating" name="rating">
+            <option value="5">⭐⭐⭐⭐⭐</option>
+            <option value="4">⭐⭐⭐⭐</option>
+            <option value="3">⭐⭐⭐</option>
+            <option value="2">⭐⭐</option>
+            <option value="1">⭐</option>
+        </select>
+    </div>
+    <p>Your feedback is important to us!</p>
+</section>
+    
     <p>&copy; 2024 Kavyamakeover14. All rights reserved.</p>
 </footer>
