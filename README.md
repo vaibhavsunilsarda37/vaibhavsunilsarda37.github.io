@@ -29,26 +29,19 @@
             <h2>Client Testimonials</h2>
             <p>For Yashoda, Kavyamakeover14 is a sanctuary of beauty, offering exquisite treatments that elevate her glow. Ganga commends the unparalleled service, hailing it as the epitome of excellence in the city. Kalpana values the personalized attention and skillful touch, making each visit a pampering delight.</p>
         </section>
-
-        <section>
-            <h2>Connect with us</h2>
-            <ul>
-                <li><a href="https://wa.me/9028343013?text=Hello%20Kavyamakeover14" target="_blank">WhatsApp: 9028343013 (Send Message)</a></li>
-                <li><a href="https://www.instagram.com/kavyamakeover14/" target="_blank">Instagram</a></li>
-                <li><a href="tel:+9028343013" target="_blank">Phone: 9028343013</a></li>
-            </ul>
-        </section>
-
-        <section>
-            <h2>Our Venue</h2>
-            <!-- Replace IMAGE_URL with the actual URL of your image -->
-            <img src="https://github.com/vaibhavsunilsarda37/vaibhavsunilsarda37.github.io/raw/main/assets/c6909c6c-460e-496b-b3ab-fbcb5ed477a0" alt="Kavyamakeover14 Venue">
-        </section>
     </main>
-
-    <footer>
-        <p>&copy; 2024 Kavyamakeover14. All rights reserved.</p>
-    </footer>
 
 </body>
 </html>
+![IMG-20231212-WA0010](https://github.com/vaibhavsunilsarda37/vaibhavsunilsarda37.github.io/assets/158248067/9d17ce21-fcfe-4c4a-9c4a-e28aee80d17d)
+<section>
+    <h2>Contact Us</h2>
+    <ul>
+        <li><a href="https://wa.me/9028343013?text=Hello%20Kavyamakeover14" target="_blank">WhatsApp: 9028343013 (Send Message)</a></li>
+        <li><a href="https://www.instagram.com/kavyamakeover14/" target="_blank">Instagram</a></li>
+        <li><a href="tel:+9028343013" target="_blank">Phone: 9028343013</a></li>
+    </ul>
+</section>
+<footer>
+    <p>&copy; 2024 Kavyamakeover14. All rights reserved.</p>
+</footer>
