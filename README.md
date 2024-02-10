@@ -34,7 +34,15 @@
 </body>
 </html>
 ![IMG-20231212-WA0010](https://github.com/vaibhavsunilsarda37/vaibhavsunilsarda37.github.io/assets/158248067/9d17ce21-fcfe-4c4a-9c4a-e28aee80d17d)
-<li><a href="https://wa.me/9028343013?text=Hello%20Kavyamakeover14,%20I%20would%20like%20to%20inquire%20about%20your%20parlour%20treatments.%20💫🌺" target="_blank">WhatsApp: 9028343013 (Send Inquiry)</a></li>
+<!-- Contact Us Section -->
+<section>
+    <h2>Contact Us</h2>
+    <p>
+        <a href="https://wa.me/9028343013?text=Hello%20Kavyamakeover14%20I%20would%20like%20to%20inquire%20about%20parlour%20treatment.%20Please%20send%20me%20the%20parlour%20menu." target="_blank">WhatsApp: 9028343013</a><br>
+        <a href="tel:+9028343013" target="_blank">Phone: 9028343013</a><br>
+        <a href="https://www.instagram.com/kavyamakeover14/" target="_blank">Instagram</a>
+    </p>
+</section>
 <footer>
     <p>&copy; 2024 Kavyamakeover14. All rights reserved.</p>
 </footer>
